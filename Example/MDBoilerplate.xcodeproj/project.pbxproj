@@ -39,14 +39,14 @@
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		7E387E273DB1FA3AF16C9024 /* Pods-MDBoilerplate_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MDBoilerplate_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-MDBoilerplate_Tests/Pods-MDBoilerplate_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		80EA6CE8D6AB22A3A6E80929 /* MDBoilerplate.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = MDBoilerplate.podspec; path = ../MDBoilerplate.podspec; sourceTree = "<group>"; };
-		A0B9D0D4E2C0706A47DF2BC8 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		80EA6CE8D6AB22A3A6E80929 /* MDBoilerplate.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = MDBoilerplate.podspec; path = ../MDBoilerplate.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		A0B9D0D4E2C0706A47DF2BC8 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		B495F63560139D81AF086CD5 /* Pods_MDBoilerplate_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MDBoilerplate_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C00223EB35E005BC6134DDB0 /* Pods-MDBoilerplate_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MDBoilerplate_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-MDBoilerplate_Tests/Pods-MDBoilerplate_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		D2638AA713DEF80AFC53FFCD /* Pods_MDBoilerplate_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MDBoilerplate_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D7922F2E58F0E36020E1194E /* Pods-MDBoilerplate_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MDBoilerplate_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-MDBoilerplate_Example/Pods-MDBoilerplate_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		DDB464D931C6EC5440C046D4 /* Pods-MDBoilerplate_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MDBoilerplate_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-MDBoilerplate_Example/Pods-MDBoilerplate_Example.release.xcconfig"; sourceTree = "<group>"; };
-		E6B926CF9843CB374D62CD9B /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		E6B926CF9843CB374D62CD9B /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
