@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MDBoilerplate_Example' do
+  pod 'MDBoilerplate', :path => '../'
+
+  target 'MDBoilerplate_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
