@@ -1,0 +1,16 @@
+PODS:
+  - MDBoilerplate (0.1.0)
+
+DEPENDENCIES:
+  - MDBoilerplate (from `../`)
+
+EXTERNAL SOURCES:
+  MDBoilerplate:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MDBoilerplate: c51cc7a7b457913bad446e04cb00275dea1df660
+
+PODFILE CHECKSUM: 93c5b52eb3b14d1acd672a2b7428d6e37b6c1e42
+
+COCOAPODS: 1.5.3
