@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'MDBoilerplate'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'A boilerplate pod for the the most commun redundant code.'
 
 
